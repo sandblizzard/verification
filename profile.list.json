@@ -1,0 +1,9 @@
+{
+  "name": "sandblizzard-verification",
+  "profiles": [
+    {
+      "github": "0xksure",
+      "solanaAddress": "CNY467c6XURCPjiXiKRLCvxdRf3bpunagYTJpr685gPv"
+    }
+  ]
+}
